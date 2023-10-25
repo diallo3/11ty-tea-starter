@@ -8,3 +8,5 @@ A static site generation starter with modern tooling and sensible defaults.
  - SEO optimized meta include file with multiple fallbacks
  - Image plugin for performance
  - Sitemap generation
+
+Forked from [11ty Rapid Starter](https://github.com/aplauche/11ty-Rapid-Starter) by Anton Plauche-Capers
